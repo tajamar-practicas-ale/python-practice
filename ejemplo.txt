@@ -1,3 +1,3 @@
-Primera lï¿½nea de texto.
-Segunda lï¿½nea de texto.
-Tercera lï¿½nea de texto.
+Primera línea de texto.
+Segunda línea de texto.
+Tercera línea de texto.
