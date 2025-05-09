@@ -22,16 +22,16 @@ print(f"Dominio: cualquier caracter o cadena de texto")
 print(f"Operadores: + (concatenación), ** (repetición), y += (adición)")
 print(f"Tipo identificativo: {type(caracter)}\n")
 
-# Arrays/lista ({})
-array = {1,5.2,3,"array"}
+# Arrays/lista ([])
+array = [1,5.2,3,"array"]
 print("Tipo caracter: ('{}')")
 print(f"Valor: {array}")
 print(f"Dominio: secuencias de elementos (pueden ser mixtos)")
 print(f"Operadores: + (concatenación), ** (repetición), len(), append()")
 print(f"Tipo identificativo: {type(array)}\n")
 
-# Tupla ([])
-tupla = [1,5.2,3,"tupla"]
+# Tupla (())
+tupla = (1,5.2,3,"tupla")
 print("Tipo caracter: ('[]')")
 print(f"Valor: {tupla}")
 print(f"Dominio: secuencias de elementos (pueden ser mixtos y no se pueden modificar)")
